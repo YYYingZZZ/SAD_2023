@@ -27,3 +27,16 @@ print(s)
 var s = "Javascript highlights ";
 alert(s)
 ```
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+| Tables | Are | Cool |
+| :----- |:---:| ----:|
+| col 3 is | right-aligned | $1600 |
+| col 2 is | centered | $12 |
+| zebra stripes | are neat | $1 |
+
+| Markdown | Less | Pretty |
+| :------- | :--- | :----- |
+| *Still* | `renders` | **nicely** |
+| 1 | 2 | 3 |
