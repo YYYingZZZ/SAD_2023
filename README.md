@@ -10,7 +10,7 @@
 
 ----
 
-![NKUST](logo.png "高科大")
+![Cute](pg.png "多拉A夢")
 
 - [ ] to do list
 - [x] 1st thing
