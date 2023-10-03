@@ -29,8 +29,8 @@ gantt
     Task in 11th      :2014-05-11  , 25d
 ```
 
-## PERP/CPM圖
-
+## PERT/CPM圖
+![PERT](PERT.jpg)
 ## 關鍵路徑
 ```
 1 -> 2 -> 4-> 6 -> 9 -> 11
